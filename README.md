@@ -54,3 +54,9 @@
 #### [GitHub Repo](https://github.com/Trueold89/yabr)
 
 #### [GitLab Repo](https://gitlab.com/Trueold89/yabr)
+
+## ⬆️  Help me on Reddit:
+
+#### [r/unixporn](https://www.reddit.com/r/unixporn/comments/15lfuwf/yet_another_rice_with_some_smooth_animations_bspwm/?utm_source=share&utm_medium=web2x&context=3)
+
+#### [r/bspwm](https://www.reddit.com/r/bspwm/comments/15lfxsb/yet_another_rice_with_some_smooth_animation/?utm_source=share&utm_medium=web2x&context=3)
