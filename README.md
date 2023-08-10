@@ -21,7 +21,7 @@
 
 ---
 
-#### 🎨  GTK Theme: [ZorinGrey-Dark](https://github.com/ZorinOS/zorin-desktop-themes/tree/master)
+#### 🎨  GTK Theme: [Yaru-Colors-Gray-Dark](https://github.com/Jannomag/Yaru-Colors)
 
 #### 📁  Icon Theme: [Colloid-Icon-Theme Dracula Gray](https://github.com/vinceliuice/Colloid-icon-theme)
 
