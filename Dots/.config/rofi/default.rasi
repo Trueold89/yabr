@@ -10,10 +10,10 @@ configuration {
 * {
     font:                        "Montsserat Medium 10";
     /*****-----background:                  #202020;-----*****/
-    background:                  rgba(32, 32, 32, 0.7);
-    background-alt:              #424242;
+    background:                  rgba(17, 17, 27, 0.7);
+    background-alt:              #1e1e2e;
     foreground:                  #FFFFFF;
-    selected:                    #191919;
+    selected:                    #423d87ce;
     active:                      #a6e3a1;
     urgent:                      #a6e3a1;
 }
@@ -48,7 +48,7 @@ mainbox {
 imagebox {
     padding:                     20px;
     background-color:            transparent;
-    background-image:            url("~/.config/rofi/bg.jpg", height);
+    background-image:            url("~/.config/rofi/bg.png", height);
     orientation:                 vertical;
     children:                    [ "inputbar" ];
 }

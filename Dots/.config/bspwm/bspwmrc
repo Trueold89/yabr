@@ -15,7 +15,7 @@ dunst -b &
 ##############
 
 #Wallpaper
-feh --bg-fill ~/.wall.jpg &
+feh --bg-fill ~/.wall.jpeg &
 
 #Polybar
 ~/.config/polybar/launch.sh &

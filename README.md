@@ -1,11 +1,8 @@
-# YET ANOTHER BSPWM RICE
+# YET ANOTHER BSPWM RICE (REI CATPPUCCIN)
 
 ## 🖼️ Screenshots:
 
-![](Images/1.png)
-![](Images/2.png)
-![](Images/3.png)
-![](Images/4.png)
+![](Images/Image.jpg)
 
 ## 📦 Packages:
 
@@ -21,12 +18,9 @@
 
 ---
 
-#### 🎨  GTK Theme: [Yaru-Colors-Gray-Dark](https://github.com/Jannomag/Yaru-Colors)
+#### 🎨  GTK Theme: [Catppuccin-Mocha-Sapphire](https://github.com/catppuccin/gtk.git)
 
-#### 📁  Icon Theme: [Colloid-Icon-Theme Dracula Gray](https://github.com/vinceliuice/Colloid-icon-theme)
-
-#### 🖼️  Wallpaper from: [SALUKI - Огней (Music Video)](https://www.youtube.com/watch?v=H6tNm72cMA8)
-
+#### 📁  Icon Theme: [Colloid-Icon-Theme Dracula](https://github.com/vinceliuice/Colloid-icon-theme)
 
 #### 🗔   Tmux Theme: [Catppuccin Latte](https://github.com/catppuccin/tmux)
 
